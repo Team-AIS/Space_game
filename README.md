@@ -1,4 +1,4 @@
-# Space game 
+# Space game - pictures needed for the game
 ![1](https://user-images.githubusercontent.com/101408506/158024078-fabb16d3-066e-46ba-9cd9-1c54a7eec507.png)
 ![2](https://user-images.githubusercontent.com/101408506/158024088-65467148-be78-4e85-928d-66ea508cf77c.png)
 ![3](https://user-images.githubusercontent.com/101408506/158024091-e74e9894-2e2d-464c-94cc-1d808f7fe886.png)
@@ -17,3 +17,10 @@
 ![sepiq2](https://user-images.githubusercontent.com/101408506/158024160-703ac927-ed33-4932-a829-3e8db44333d3.png)
 ![sepiq3](https://user-images.githubusercontent.com/101408506/158024163-c94b8901-b7df-4c9d-8dca-5244b1a4d293.png)
 ![sepiq4](https://user-images.githubusercontent.com/101408506/158024166-5ec3ea12-79b0-4a6f-b73d-16f079c5a16e.png)
+![boom_sepiq](https://user-images.githubusercontent.com/101408506/158040676-60cbe092-4e26-4fdc-8d00-041f1b9ad466.png)
+![boom1](https://user-images.githubusercontent.com/101408506/158040678-172bb001-c591-4145-93d1-26fdb02db51e.png)
+![boom2](https://user-images.githubusercontent.com/101408506/158040680-ca5e4547-97fa-4314-b944-479af17c471e.png)
+![boom3](https://user-images.githubusercontent.com/101408506/158040681-4b6e45d1-93d3-4207-92a9-c3c867d18257.png)
+![boom4](https://user-images.githubusercontent.com/101408506/158040682-6c701d06-b8a8-49bf-900a-0dd8c66d9c61.png)
+![lol](https://user-images.githubusercontent.com/101408506/158040685-e1e4622b-ae69-42aa-8513-6fb34d42a965.png)
+![loll](https://user-images.githubusercontent.com/101408506/158040687-68b8780a-8587-4684-a909-d11312ffde28.png)
